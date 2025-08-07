@@ -7,7 +7,6 @@ The Smart Vacuum Cleaner Robot is an floor-cleaning robot designed and built as 
 This project combines embedded systems, sensor integration, and basic robotics to provide a cost-efficient and functional home cleaning assistant. The robot uses ultrasonic sensing for obstacle avoidance, motor drivers for motion control, and Arduino Uno as the central controller.
 
 ---
-
 ## Features
 
 - Obstacle detection and avoidance using an ultrasonic sensor
@@ -22,15 +21,13 @@ This project combines embedded systems, sensor integration, and basic robotics t
 
 ## Project Demo
 
-> **Demo Video:**  
-> *[Add link here]*
+[![Watch the demo](Resources/bot.jpg)](https://drive.google.com/file/d/1qJvS7lNiSm_QseHWfddz5XZzQhISXHSN/view)
+
 
 ---
 
 ## Circuit Diagram
-
-> **Circuit Diagram Image:**  
-> *[Insert circuit diagram here]*
+<img src = "https://raw.githubusercontent.com/dbsaragesh-bs/Smart-Vacuum-Cleaner-Robot/refs/heads/main/Resources/circuit_diag.jpg" alt = "Circuit Diagram" />
 
 ---
 
